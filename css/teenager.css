@@ -1,0 +1,302 @@
+.head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ADD8E6;
+
+}
+
+
+
+body {
+    width: 100%;
+    margin: 0px;
+    background-color: #ADD8E6;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 20px;
+    padding: 2px;
+}
+.address a{
+    padding-top: 4px;
+    padding-left: 4px;
+    color: black;
+    text-decoration: none;
+   
+}
+
+
+.address a:hover {
+    border-bottom: dotted;
+    color: dimgray;
+}
+
+.mk {
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+
+.navigate {
+    display: flex;
+    justify-content: space-around;
+    background-color: #F08080;
+    width: 100%;
+    font-size: 21px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    border: solid black 2px;
+}
+
+
+.adult a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.adult a:hover {
+    background-color: white;
+    text-decoration: dotted;
+}
+
+.home a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.home a:hover {
+    background-color: white;
+    text-decoration: dotted;
+}
+
+
+.teenager a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.teenager a:hover {
+    background-color: white;
+    text-decoration: dotted;
+}
+
+.baby a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.baby a:hover {
+    background-color: white;
+    text-decoration: dotted;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 25px;
+    background-color: #F08080;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.page {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.razgon {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.razgon_text {
+    display: flex;
+    flex-direction: column;
+}
+.razgon_img {
+    margin: 10px;
+}
+
+.blast {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.blast_text {
+    display: flex;
+    flex-direction: column;
+}
+.blast_img {
+    margin: 10px;
+}
+
+.multi {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.multi_text {
+    display: flex;
+    flex-direction: column;
+}
+.multi_img {
+    margin: 10px;
+}
+
+.rub {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.rub_text {
+    display: flex;
+    flex-direction: column;
+}
+.rub_img {
+    margin: 10px;
+}
+
+.grimm {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.grimm_text {
+    display: flex;
+    flex-direction: column;
+}
+.grimm_img {
+    margin: 10px;
+}
+
+.sushka {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.sushka_text {
+    display: flex;
+    flex-direction: column;
+}
+.sushka_img {
+    margin: 10px;
+}
+
+.cyber {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.cyber_text {
+    display: flex;
+    flex-direction: column;
+}
+.cyber_img {
+    margin: 10px;
+}
+
+.kids {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.kids_text {
+    display: flex;
+    flex-direction: column;
+}
+.kids_img {
+    margin: 10px;
+}
+
+.museum {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.museum_text {
+    display: flex;
+    flex-direction: column;
+}
+.museum_img {
+    margin: 10px;
+}
+
