@@ -133,3 +133,33 @@ body {
     text-decoration: dotted;
 }
 
+.priview {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 40px;
+    border: 2px;
+    border-radius: 5px;
+    background-image: url(https://uprostim.com/wp-content/uploads/2021/04/image046-45-scaled.jpg);
+}
+
+.name1 {
+    display: flex;
+    justify-content: center;
+}
+
+.img_text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    margin-left: 10px;
+    text-align: center;
+    width: 500px;
+}
+
+.img {
+    margin-left: 10px;
+}
+

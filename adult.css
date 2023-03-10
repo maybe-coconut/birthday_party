@@ -153,3 +153,39 @@ body {
 .pain_img {
     margin: 10px;
 }
+
+.razgon {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.razgon_text {
+    display: flex;
+    flex-direction: column;
+}
+.razgon_img {
+    margin: 10px;
+}
+
+.mq {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: azure;
+    margin-top: 30px;
+}
+
+.mq_text {
+    display: flex;
+    flex-direction: column;
+}
+.mq_img {
+    margin: 10px;
+}
